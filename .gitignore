@@ -457,6 +457,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# Ocultar carpeta de recursos del curso
+curso-devops-main/
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
