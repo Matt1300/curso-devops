@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_BASE_NAME: mg/apicontactos
+  IMAGE_BASE_NAME: devmg13/apicontactos
 
 jobs:
   API_Image:
